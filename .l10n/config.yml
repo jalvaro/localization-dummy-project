@@ -1,5 +1,6 @@
-project-name: Console
-source-files-pattern: locales/en/*.json
+project-name: Localization Dunny Project
+source-files-patterns:
+  - locales/en/*.json
 target-languages:
   - pt-BR
   - fr-FR
