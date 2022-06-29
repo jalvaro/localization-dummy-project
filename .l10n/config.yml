@@ -1,4 +1,4 @@
-project-name: Localization Dunny Project
+project-name: Localization Dummy Project
 source-files-patterns:
   - locales/en/*.json
 target-languages:
